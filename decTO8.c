@@ -7,7 +7,7 @@ long oktagonalny,decymalny,temp;
  licz=0;
  sum=0;
  decymalny=0;
-printf("Podaj liczbe w systemie dziesiatkowym do konwersji na system osemkowy: ");
+printf("NIE MA TAKIEGO BICIA!! by Wilq");
 scanf("%ld",&decymalny);
 temp=decymalny;
 while(temp>0)
