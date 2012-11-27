@@ -25,6 +25,6 @@ oktagonalny=oktagonalny*10+r;
 sum=sum/10;
 licz--;
 }
-printf("Osemkowy odpowiednik liczby dziesiatkowej %ld to %ld\n\n",decymalny,oktagonalny);
-
+heeeeeeey hoooooooo
+xoxoxooxoxoxoxoxoxo
 }
